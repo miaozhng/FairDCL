@@ -25,3 +25,4 @@ python3 main_moco_fair.py \
 TODO:
 1) Making the number of sensitive attribute classes adjustable.
 2) Providing codes for comparison methods: Gradient reversal and Domain independent training.
+3) Downstream fine-tuning codes.
