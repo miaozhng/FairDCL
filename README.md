@@ -1,7 +1,7 @@
 # FairDCL
 
 
-Fair dense representation in contrastive learning (FairDCL) is a fairness optimization approach build on MoCo-v2 contrastive learning framework. 
+Fair dense representation in contrastive learning (FairDCL) is a fairness optimization approach build on MoCo-v2 contrastive learning framework. The core codes are building sensitive attribute embeddings and deriving discriminator loss.
 
 ###
 Train:
